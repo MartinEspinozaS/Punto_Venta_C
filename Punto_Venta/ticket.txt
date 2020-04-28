@@ -1,0 +1,7 @@
+			Abarrotes Covid
+				Ticket
+
+Monday, April 27, 2020					2:53:18 PM
+
+	Precio		Nombre			Cantidad	Total
+				Total = 75
